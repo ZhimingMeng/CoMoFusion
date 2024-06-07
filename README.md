@@ -19,6 +19,11 @@ conda create -n CoMoFusion python=3.9
 conda activate CoMoFusion
 pip install -r requirements.txt
 ```
+## Test Examples
+You need to firstly modify the configuration in the ```./scripts/t_fusion.py``` to put your dataset_root, model_weight and so on.
+```
+python ./scripts/t_fusion.py
+```
 
 
 ## Abstract
