@@ -2,6 +2,7 @@
 Official implementation for “CoMoFusion: Fast and High-quality Fusion of Infrared and Visible Image with Consistency Model.”
 
 ## Citation
+```
 @misc{meng2024comofusion,
       title={CoMoFusion: Fast and High-quality Fusion of Infrared and Visible Image with Consistency Model}, 
       author={Zhiming Meng and Hui Li and Zeyang Zhang and Zhongwei Shen and Yunlong Yu and Xiaoning Song and Xiaojun Wu},
@@ -10,4 +11,5 @@ Official implementation for “CoMoFusion: Fast and High-quality Fusion of Infra
       archivePrefix={arXiv},
       primaryClass={cs.CV}
 }
+```
 
