@@ -12,6 +12,13 @@ Official implementation for “CoMoFusion: Fast and High-quality Fusion of Infra
       primaryClass={cs.CV}
 }
 ```
+## Main Environment
+
+```
+conda create -n CoMoFusion python=3.9
+conda activate CoMoFusion
+pip install -r requirements.txt
+```
 
 
 ## Abstract
