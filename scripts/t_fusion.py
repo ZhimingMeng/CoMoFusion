@@ -197,7 +197,7 @@ def create_argparser():
         steps=40,
         model_path="../model_weights/consistency_model.pt",
         fusion_model_path="../model_weights/fusion_model.pth",
-        test_result_path ='../fusion_imgs/with_consitency_fusion_head_with_att_directimg/Ir/TNO',
+        test_result_path ='../fusion_imgs/TNO',
         seed=42,
         ts="",
         # data_dir='../datasets/MSRS/test/vi',
