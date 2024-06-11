@@ -19,6 +19,10 @@ conda create -n CoMoFusion python=3.9
 conda activate CoMoFusion
 pip install -r requirements.txt
 ```
+
+##Pretrain Weights
+We provide the pretrain weights for infrared and visible image fusion. Download the weight and put it into the weights folder.
+You can refer to [Baidu Drive](https://pan.baidu.com/s/16z-CQSVMVTFHGWO3NH-N8A) (code:5555) to download it.
 ## Test Examples
 You need to firstly modify the configuration in the ```./scripts/t_fusion.py``` to put your dataset_root, model_weight and so on.
 ```
