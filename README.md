@@ -30,6 +30,9 @@ You need to firstly modify the configuration in the ```./scripts/t_fusion.py``` 
 ```
 python ./scripts/t_fusion.py
 ```
+## Train Examples
+The train code and detail will be public available after October 18 for academic and research purposes only.
+
 
 
 ## Abstract
