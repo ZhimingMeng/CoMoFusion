@@ -38,12 +38,12 @@ Generative models are widely utilized to model the distribution of fused images 
 ## OverView
 ![image](https://github.com/ZhimingMeng/CoMoFusion/blob/main/image/overview.jpg)
 
-##Qualitative fusion results
+## Qualitative fusion results
 ![image](https://github.com/ZhimingMeng/CoMoFusion/blob/main/image/Qualitative_result_TNO.jpg)
 ![image](https://github.com/ZhimingMeng/CoMoFusion/blob/main/image/Qualitative_result_MSRS.jpg)
 
 
-##Quantitative fusion results
+## Quantitative fusion results
 
 ![image](https://github.com/ZhimingMeng/CoMoFusion/blob/main/image/Quantitative_TNO.jpg)
 ![image](https://github.com/ZhimingMeng/CoMoFusion/blob/main/image/Quantitative_MSRS.jpg)
