@@ -195,17 +195,17 @@ def create_argparser():
         s_tmax=float("inf"),
         s_noise=1.0,
         steps=40,
-        model_path="../model_weights/consistency_model.pt",
-        fusion_model_path="../model_weights/fusion_model.pth",
-        test_result_path ='../fusion_imgs/TNO',
+        model_path="./model_weights/consistency_model.pt",
+        fusion_model_path="./model_weights/fusion_model.pth",
+        test_result_path ='./fusion_imgs/TNO',
         seed=42,
         ts="",
         # data_dir='../datasets/MSRS/test/vi',
         # image_iv_paths='../datasets/MSRS/test/ir',
         # data_dir='../datasets/RoadScene/Vis',
         # image_iv_paths='../datasets/RoadScene/Inf',
-        data_dir='../datasets/TNO/vi',
-        image_iv_paths='../datasets/TNO/ir',
+        data_dir='./datasets/TNO/vi',
+        image_iv_paths='./datasets/TNO/ir',
     )
     defaults.update(model_and_diffusion_defaults())
     parser = argparse.ArgumentParser()
