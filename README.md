@@ -26,9 +26,9 @@ You can refer to [Baidu Drive](https://pan.baidu.com/s/16z-CQSVMVTFHGWO3NH-N8A) 
 
 
 ## Test Examples
-You need to firstly modify the configuration in the ```./scripts/t_fusion.py``` to put your dataset_root, model_weight and so on.
+You need to firstly modify the configuration in the ```test_fusion.py``` to put your dataset_root, model_weight and so on.
 ```
-python ./scripts/t_fusion.py
+python test_fusion.py
 ```
 ## Train Examples
 The train code and detail will be public available after October 18 for academic and research purposes only.
