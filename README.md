@@ -3,13 +3,13 @@ Official implementation for “CoMoFusion: Fast and High-quality Fusion of Infra
 
 ## Citation
 ```
-@misc{meng2024comofusion,
-      title={CoMoFusion: Fast and High-quality Fusion of Infrared and Visible Image with Consistency Model}, 
-      author={Zhiming Meng and Hui Li and Zeyang Zhang and Zhongwei Shen and Yunlong Yu and Xiaoning Song and Xiaojun Wu},
-      year={2024},
-      eprint={2405.20764},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@inproceedings{meng2024comofusion,
+  title={Comofusion: fast and high-quality fusion of infrared and visible image with consistency model},
+  author={Meng, Zhiming and Li, Hui and Zhang, Zeyang and Shen, Zhongwei and Yu, Yunlong and Song, Xiaoning and Wu, Xiaojun},
+  booktitle={Chinese Conference on Pattern Recognition and Computer Vision (PRCV)},
+  pages={539--553},
+  year={2024},
+  organization={Springer}
 }
 ```
 ## Main Environment
