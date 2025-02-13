@@ -31,7 +31,9 @@ You need to firstly modify the configuration in the ```test_fusion.py``` to put 
 python test_fusion.py
 ```
 ## Train Examples
-The train code and detail will be public available after October 18 for academic and research purposes only.
+The train code contains two parts: 1. cm_train.py(train consistency model to construct multi-modal joint features).   2. fusion_train.py(train fusion module to generate fused images).
+
+
 
 
 
