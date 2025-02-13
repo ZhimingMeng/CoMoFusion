@@ -38,6 +38,12 @@ Run
 python cm_train.py
 ```
 and the processed training dataset is in data_dir,image_iv_paths, which should be adjusted according to the specific dataset being used.
+### Second stage  
+Run
+```
+python fusion_train.py
+```
+and the model weights trained in the first stage can be used, either from your own training or those provided by us.
 
 
 
