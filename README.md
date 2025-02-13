@@ -31,7 +31,13 @@ You need to firstly modify the configuration in the ```test_fusion.py``` to put 
 python test_fusion.py
 ```
 ## Train Examples
-The train code contains two parts: 1. cm_train.py(train consistency model to construct multi-modal joint features).   2. fusion_train.py(train fusion module to generate fused images).
+The training process consists of two stages, and as such, the code is divided into two parts: 1. cm_train.py(train consistency model to construct multi-modal joint features).   2. fusion_train.py(train fusion module to generate fused images).
+### First stage  
+Run
+```
+python cm_train.py
+```
+and the processed training dataset is in data_dir,image_iv_paths, which should be adjusted according to the specific dataset being used.
 
 
 
