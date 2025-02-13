@@ -12,6 +12,7 @@ Official implementation for “CoMoFusion: Fast and High-quality Fusion of Infra
   organization={Springer}
 }
 ```
+If you have any questions, please send an email to mengzmemail@163.com.
 ## Main Environment
 
 ```
